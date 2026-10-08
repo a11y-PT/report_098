@@ -3,6 +3,7 @@ website: "Serviços de Ação Social do Instituto Politécnico de Setúbal"     
 date: "13/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://sasocial.sas.ips.pt/dashboard"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://sasocial.sas.ips.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "31/08/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Serviços de Ação Social do IP de Setúbal"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "31/08/2026 a 31/08/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
